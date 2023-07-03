@@ -1,5 +1,5 @@
 {
-  "name": "@cerc-io/channel",
+  "name": "@cerc-io/ts-channel",
   "description": "Go-like channels for JavaScript",
   "version": "1.0.3-ts-nitro-0.1.0",
   "author": {
