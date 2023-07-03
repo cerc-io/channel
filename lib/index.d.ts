@@ -34,6 +34,7 @@ export interface ReadChannel<T> {
   toString(): string;
   value(): T;
   values(): Promise<T[]>;
+  channelLength(): number;
 }
 
 export interface WriteChannel<T> {
